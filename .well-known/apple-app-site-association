@@ -1,0 +1,9 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "AS56W2YHKU.com.globus.osmotagger",
+            "paths": ["*"]
+        }]
+    }
+}
