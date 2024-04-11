@@ -1,9 +1,11 @@
 {
     "applinks": {
-        "apps": [],
         "details": [{
-            "appID": "AS56W2YHKU.com.globus.osmotagger",
-            "paths": ["*"]
+            "appIDs": ["AS56W2YHKU.com.globus.osmotagger"],
+            "components": [{
+                "/": "/oauth2/*",
+                "comment": "Matches any URL under /oauth2/"
+            }]
         }]
     }
 }
